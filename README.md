@@ -6,7 +6,7 @@
 
 **Live code**
 
-![Live code GIF](https://imgur.com/1kDjMZW)
+![Live code GIF](blob:https://imgur.com/370928f8-fb91-5a40-b6e4-6a1d627cff61)
 
 ---
 
